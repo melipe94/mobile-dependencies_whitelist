@@ -2,7 +2,7 @@
     "controllist": [
         {
             "package": "com.mercadolibre.android.customlint:library:EXPERIMENTAL-1.0.0-20230814181758",
-            "flag": true
+            "flag": false
         }
     ]
 }
