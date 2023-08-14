@@ -1,10 +1,12 @@
 {
   "packages": [
     {
-      "package": "any"
+      "package": "com.mercadolibre.android.customlint:library:EXPERIMENTAL-1.0.0-20230814181758",
+      "type":"IDE"
     },
     {
-      "package": "any1"
+      "package": "any1",
+      "type":"BUILD"
     }
   ]
 }
