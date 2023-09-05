@@ -1,7 +1,8 @@
 {
     "controllist": [
         {
-            "url": "com.mercadolibre.android.customlint:library:EXPERIMENTAL-1.0.0-20230814181758",
+            "package": "https://github.com/melisource/fury_pu-control-quality",
+            "version": "0.1.0",
             "type": "IDE"
         }
     ]
