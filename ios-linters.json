@@ -1,8 +1,7 @@
 {
     "controllist": [
         {
-            "package": "https://github.com/melisource/fury_pu-control-quality",
-            "version": "0.1.0",
+            "package": "https://github.com/melisource/fury_pu-control-quality/releases/tag/1.0.0",
             "type": "IDE"
         }
     ]
