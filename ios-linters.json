@@ -1,7 +1,11 @@
 {
     "controllist": [
         {
-            "package": "https://github.com/melisource/fury_pu-control-quality/releases/tag/1.0.0",
+            "package": "https://github.com/cmatos_meli/poc-controlcalidad1/releases/tag/1.0.0",
+            "type": "IDE"
+        },
+        {
+            "package": "https://github.com/cmatos_meli/poc-controlcalidad2/releases/tag/1.1.0",
             "type": "IDE"
         }
     ]
