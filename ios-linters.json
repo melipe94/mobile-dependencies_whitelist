@@ -1,11 +1,11 @@
 {
     "controllist": [
         {
-            "package": "https://github.com/cmatos_meli/poc-controlcalidad/releases/tag/1.0.0",
+            "package": "https://github.com/cmatos_meli/poc-controlcalidad/releases/tag/1.0.1",
             "type": "IDE"
         },
         {
-            "package": "https://github.com/cmatos_meli/poc-controlcalidad2/releases/tag/1.1.2",
+            "package": "https://github.com/cmatos_meli/poc-controlcalidad2/releases/tag/1.1.3",
             "type": "IDE"
         }
     ]
