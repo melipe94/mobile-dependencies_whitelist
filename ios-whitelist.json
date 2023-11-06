@@ -1743,25 +1743,37 @@
       "name": "DatadogSDK",
       "source": "public",
       "target": "production",
-      "version": "1.23.0"
+      "version": "1.23.0",
+      "allows_granular_projects": [
+        "AppMonitoring"
+      ]
     },
     {
       "name": "DatadogInternal",
       "source": "public",
       "target": "production",
-      "version": "2.4.0"
+      "version": "2.4.0",
+      "allows_granular_projects": [
+        "AppMonitoring"
+      ]
     },
     {
       "name": "DatadogCore",
       "source": "public",
       "target": "production",
-      "version": "2.4.0"
+      "version": "2.4.0",
+      "allows_granular_projects": [
+        "AppMonitoring"
+      ]
     },
     {
       "name": "DatadogRUM",
       "source": "public",
       "target": "production",
-      "version": "2.4.0"
+      "version": "2.4.0",
+      "allows_granular_projects": [
+        "AppMonitoring"
+      ]
     },
     {
       "name": "DatadogLogs",
@@ -1773,20 +1785,29 @@
       "name": "DatadogTrace",
       "source": "public",
       "target": "production",
-      "version": "2.4.0"
+      "version": "2.4.0",
+      "allows_granular_projects": [
+        "AppMonitoring"
+      ]
     },
     {
       "expires": "2024-01-12",
       "name": "DatadogSDKCrashReporting",
       "source": "public",
       "target": "production",
-      "version": "1.23.0"
+      "version": "1.23.0",
+      "allows_granular_projects": [
+        "AppMonitoring"
+      ]
     },
     {
       "name": "DatadogCrashReporting",
       "source": "public",
       "target": "production",
-      "version": "2.4.0"
+      "version": "2.4.0",
+      "allows_granular_projects": [
+        "AppMonitoring"
+      ]
     },
     {
       "name": "Dogfooding",
