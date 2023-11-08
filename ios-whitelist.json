@@ -1800,7 +1800,7 @@
       "target": "production",
       "version": "1.23.0",
       "allows_granular_projects": [
-        "AppMonitoring"
+        "AppMonitoringSetup"
       ]
     },
     {
@@ -1809,7 +1809,7 @@
       "target": "production",
       "version": "2.4.0",
       "allows_granular_projects": [
-        "AppMonitoring"
+        "AppMonitoringSetup"
       ]
     },
     {
